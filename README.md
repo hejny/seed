@@ -1,5 +1,15 @@
 # A Create React App template on Gitpod
 
+<!--Badges-->
+
+ [![Package Quality](https://packagequality.com/shield/seed.svg)](https://packagequality.com/#?package=seed)
+ [![License](https://img.shields.io/github/license/hejny/seed.svg?style=flat)](https://raw.githubusercontent.com/hejny/seed/master/LICENSE)
+ [![NPM Version](https://badge.fury.io/js/@hejny%2Fseed.svg)](https://www.npmjs.com/package/@hejny/seed)
+ [![Known Vulnerabilities](https://snyk.io/test/github/hejny/seed/badge.svg)](https://snyk.io/test/github/hejny/seed)
+ [![Issues](https://img.shields.io/github/issues/hejny/seed.svg?style=flat)](https://github.com/hejny/seed/issues)
+
+<!--/Badges-->
+
 This is a [Create React App](https://create-react-app.dev/) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
 ## Next Steps
