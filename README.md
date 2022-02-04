@@ -12,6 +12,9 @@
 
 <!--/Badges-->
 
+Random seed representation as a generated 3D model
+
+
 
 TODO: Make this as Collboard module
 
