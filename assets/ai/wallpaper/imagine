@@ -1,5 +1,34 @@
-Wallpaper in minimalistic style for project that Random seed representation as a generated 3D model
---aspect 2:1 --version 3
---seed 8032549
+# Note: Each part is new input for imagine command
+#       And every first line will be searched during the harvesting phase
 
-Note: All lines bellow (including this) are ignored.
+Random seed representation as a generated 3D model
+--aspect 2:1
+--seed 6728878
+
+Banner for Random seed representation as a generated 3D model
+--aspect 2:1
+--seed 6728878
+
+Random seed representation as a generated 3D model
+--aspect 2:1 --hd
+--seed 6728878
+
+Banner for Random seed representation as a generated 3D model
+--aspect 2:1 --hd
+--seed 6728878
+
+Random seed representation as a generated 3D model
+--aspect 2:1 --quality 2
+--seed 6728878
+
+Banner for Random seed representation as a generated 3D model
+--aspect 2:1 --quality 2
+--seed 6728878
+
+Random seed representation as a generated 3D model
+--aspect 2:1 --hd --quality 2
+--seed 6728878
+
+Banner for Random seed representation as a generated 3D model
+--aspect 2:1 --hd --quality 2
+--seed 6728878
