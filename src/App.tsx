@@ -1,7 +1,5 @@
-import React from 'react';
-import logo from './logo.svg';
-import { Scene } from './components/Scene'
 import './App.css';
+import { Scene } from './components/Scene';
 
 function App() {
   return (
