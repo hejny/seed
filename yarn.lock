@@ -2935,7 +2935,7 @@
     "unpipe" "1.0.0"
 
 "bonjour@^3.5.0":
-  "integrity" "sha1-jokKGD2O6aI5OzhExpGkK897yfU="
+  "integrity" "sha512-RaVTblr+OnEli0r/ud8InrU7D+G0y6aJhlxaLa6Pwty4+xoxboF1BsUI45tujvRpbj9dQVoglChqonGAsjEBYg=="
   "resolved" "https://registry.npmjs.org/bonjour/-/bonjour-3.5.0.tgz"
   "version" "3.5.0"
   dependencies:
@@ -6028,9 +6028,9 @@
   "version" "2.1.0"
 
 "ip@^1.1.0", "ip@^1.1.5":
-  "integrity" "sha1-vd7XARQpCCjAoDnnLvJfWq7ENUo="
-  "resolved" "https://registry.npmjs.org/ip/-/ip-1.1.5.tgz"
-  "version" "1.1.5"
+  "integrity" "sha512-PuExPYUiu6qMBQb4l06ecm6T6ujzhmh+MeJcW9wa89PoAz5pvd4zPgN5WJV104mb6S2T1AwNIAaB70JNrLQWhg=="
+  "resolved" "https://registry.npmjs.org/ip/-/ip-1.1.8.tgz"
+  "version" "1.1.8"
 
 "ipaddr.js@^1.9.0", "ipaddr.js@1.9.1":
   "integrity" "sha512-0KI/607xoxSToH7GjN1FfSbLoU0+btTicjsQSWQlh/hZykN8KpmMf7uYwPW3R+akZ6R/w18ZlXSHBYXiYUPO3g=="
