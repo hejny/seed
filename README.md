@@ -9,6 +9,7 @@
 [![Quality of package 🌾🎲 Seed](https://packagequality.com/shield/seed.svg)](https://packagequality.com/#?package=seed)
 [![Issues](https://img.shields.io/github/issues/hejny/seed.svg?style=flat)](https://github.com/hejny/seed/issues)
 <!--[![Known Vulnerabilities](https://snyk.io/test/github/hejny/seed/badge.svg)](https://snyk.io/test/github/hejny/seed)-->
+<!--[![Socket](https://socket.dev/api/badge/npm/package/template-typescript-react)](https://socket.dev/npm/package/template-typescript-react)-->
 
 <!--/Badges-->
 
