@@ -1,6 +1,6 @@
 {
     "name": "template-typescript-react",
-    "version": "0.1.77",
+    "version": "0.1.78",
     "private": true,
     "dependencies": {
         "@react-three/fiber": "7.0.3",
