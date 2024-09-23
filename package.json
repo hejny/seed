@@ -42,7 +42,7 @@
             "last 1 safari version"
         ]
     },
-    "license": "SEE LICENSE IN LICENSE",
+    "license": "Apache-2.0",
     "description": "Random seed representation as a generated 3D model",
     "repository": {
         "type": "git",
