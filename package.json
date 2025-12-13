@@ -46,7 +46,7 @@
     "description": "Random seed representation as a generated 3D model",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hejny/seed"
+        "url": "git+https://github.com/hejny/seed.git"
     },
     "funding": [
         {
